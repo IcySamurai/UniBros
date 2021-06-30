@@ -1,0 +1,11 @@
+﻿  Bonus.cpp
+  Enemy.cpp
+  Entity.cpp
+  Funzioni.cpp
+C:\Users\vitto\source\repos\IcySamurai\UniBros\UniBros\Funzioni.cpp(207,16): warning C4838: la conversione da 'int' a 'SHORT' richiede una conversione che supporta un minor numero di dati
+C:\Users\vitto\source\repos\IcySamurai\UniBros\UniBros\Funzioni.cpp(207,19): warning C4838: la conversione da 'int' a 'SHORT' richiede una conversione che supporta un minor numero di dati
+  Platform.cpp
+  Screen.cpp
+  UniBros.cpp
+  Generazione del codice in corso...
+  UniBros.vcxproj -> C:\Users\vitto\source\repos\IcySamurai\UniBros\Debug\UniBros.exe
