@@ -28,7 +28,7 @@ breve guida su di loro:
 • ♥ - bonus vita: aggiunge una vita a quelle già disponibili, oltre a un esiguo valore casuale di punti;
 • + - bonus munizioni: aggiunge una munizione a quelle presenti nel tuo caricatore, oltre a un esiguo valore casuale di punti;
 • ▲ - nemico statico: è il nemico più semplice da affrontare, proprio perché non effettua alcuna azione;
-• ▬ - nemico dinamico: è il nemico di livello intermedio, capace di muoversi in una delle quattro direzioni (scelta casualmente quando viene generato);
+• % - nemico dinamico: è il nemico di livello intermedio, capace di muoversi in una delle quattro direzioni (scelta casualmente quando viene generato);
 • # - nemico sputafuoco: è il nemico più difficile da affrontare, in quanto spara delle palle di fuoco a ripetizione in una delle quattro direzioni
 			 (scelta casualmente quando viene generato);
 
